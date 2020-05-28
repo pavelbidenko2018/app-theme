@@ -1,10 +1,10 @@
 # Development Strategy
 
-> `name-of-project`
+> `App Theme`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+## Description
+This is HTML5 CSS3 template using FlexboxGrid framework.
+It could be used like an example of responsive web site development.
 
 ## Wireframe
 
@@ -18,25 +18,30 @@ __A User can see my initial repository and live demo__
 
 ### Repo
 
-- Generate from Template
+- Generated from Template
+- GitHub Pages turned one
 - Write initial, basic README
-- Turn on GitHub Pages
 
-## 1. __
 
-__full user story description__
+## 1. Creating folder structure
+
+> On this step site file structure was set including css files for FlexboxGrid and Fontawesome frameworks.
 
 ### Repo
 
-what branch(es) did you work on?
+* Used branch: 
+```initial```
+
+### Common
+Setting folder structure, adding FlexboxGrid and Fontawesome styles files.
 
 ### HTML
 
-what did you change in the HTML and why?
+Setting links to css files
 
 ### CSS
 
-what did you change in the CSS and why?
+No css development on this step
 
 ## 2. ...
 
