@@ -174,6 +174,61 @@ img {
 }
 
 
+/* PAGE */
+
+#page {
+    margin-bottom: 40px;
+}
+
+
+/* SERVICES */
+
+.services ul li {
+    list-style-type: none;
+    padding: 10px;
+    background: #56a79a;
+}
+
+.services ul li:nth-child(odd) {
+    background: #333;
+    color: #fff;
+}
+
+.services ul li:nth-child(even) {
+    background: #56a79a;
+    color: #fff;
+}
+
+
+/* CONTACT */
+
+.contact form {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+.contact form input[type="text"] {
+    width: 50%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.contact form textarea {
+    width: 50%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.contact form button {
+    width: 50%;
+    padding: 10px 0;
+    background: #222;
+    color: #fff;
+    border: 0;
+}
+
+
 /* MEDIA QUERIES */
 
 @media (max-width:800px) {
