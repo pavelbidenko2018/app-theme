@@ -145,9 +145,9 @@ No changes on this step
 
 
 ## Finishing Touches
-* Obvious bugs were finded
-* W3C code validation is provided
-* README file is completed
+* Obvious bugs were found
+* W3C code validation made
+* README file completed
 
 ### Branch: 
 * Branches: ```bugfix```
