@@ -33,6 +33,13 @@ img {
 }
 
 
+/* SUBHEADER */
+
+#subheader h2 {
+    font-size: 1.75em
+}
+
+
 /* MENU BAR */
 
 #menubar {
